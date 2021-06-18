@@ -9,7 +9,7 @@ void main() {
             ),
             body: Center(
               child:Text(
-                 'Holle World',
+                 'Change Your Mind',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize:55,
