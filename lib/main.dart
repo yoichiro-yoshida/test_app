@@ -9,7 +9,7 @@ void main() {
             ),
             body: Center(
               child:Text(
-                 'Change Your Mind',
+                 'Change Code',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize:55,
